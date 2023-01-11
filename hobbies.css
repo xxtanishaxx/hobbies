@@ -1,0 +1,36 @@
+.idk {
+    height: 100px;
+    width: 700px;
+    background-color: blue;
+    text-align: center;
+    padding: 50px;
+    padding-left: 310px;
+    border: solid greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 300px;
+    border-radius: 30px;
+    padding-right: 330px;
+    padding-top: 50px;
+}
+
+img {
+    border: solid;
+    border-radius: 30px;
+    height: 225px;
+}
+
+.idm{
+    height: 100px;
+    width: 700px;
+    background-color: blueviolet;
+    text-align: center;
+    padding: 50px;
+    padding-left: 310px;
+    border: solid greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 300px;
+    border-radius: 30px;
+    padding-right: 330px;
+    padding-top: 50px;
+}
+

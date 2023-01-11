@@ -1,0 +1,53 @@
+.container{
+    background-color: green;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+    height: 700px;
+    border-radius: 20px;
+    border: solid 4px darkgreen;
+
+}
+
+.item{
+    border: solid 5px;
+    text-align: center;
+    width: 220px;
+    height: 300px;
+    background-color: brown;
+    cursor: pointer;
+     transition: 1s;
+     border-radius: 30px;
+
+}
+
+.item:hover{
+    background-color: lightcoral;
+}
+
+.item img{
+    width: 100%;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    height:  65%
+}
+
+button{
+  border-radius: 20px;
+  background-color: rgb(233, 86, 86);
+
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.idc{
+    text-align: center;
+    background-color: rgb(51, 205, 16);
+    border: solid rgb(115, 185, 115);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+    border-radius: 30px;
+}
